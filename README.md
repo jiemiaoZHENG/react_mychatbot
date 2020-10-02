@@ -1,7 +1,7 @@
 Jiemiao ZHENG
 APPING_X3 
 PROMO 2021
-Projet: my simple chatbox react
+Projet: my simple chatbot react
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
